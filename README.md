@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Suman Bera
 
-### 🚀 Aspiring Data Scientist · Full Stack Developer · App Developer
+### 🚀 Aspiring Data Scientist · Full Stack Web Developer · App Developer
 
 <p align="center">
   <a href="https://github.com/sumanbera2005">
