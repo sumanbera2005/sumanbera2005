@@ -135,45 +135,12 @@ A **React Native frontend application** featuring reusable components and a clea
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sumanbera2005&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" alt="Suman Bera GitHub Stats" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanbera2005&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" alt="Suman Bera Top Languages" />
-
-</div>
-
----
 
 # 🔥 Contribution Streak
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=sumanbera2005&theme=tokyonight&hide_border=true&border_radius=12" alt="Suman Bera GitHub Contribution Streak" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumanbera2005&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true&radius=12" width="95%" alt="Suman Bera Contribution Activity Graph"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sumanbera2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" width="95%" alt="Suman Bera GitHub Trophies"/>
 
 </div>
 
